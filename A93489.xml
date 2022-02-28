@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations humbly offered to the Parliament being a short discourse shewing the great inconvenience of joyning the plantation charters with those of England in the general act of restoration, and the necessity of having for them a particular act. Wherein is contained, a full answer to a late pamphlet intituled, New-England vindicated, &amp;c. By a true lover of his country, and a hearty wisher of prosperity of the said plantations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93489</idno>
+            <idno type="STC">Wing S4486H</idno>
+            <idno type="STC">ESTC R215635</idno>
+            <idno type="EEBO-CITATION">99897560</idno>
+            <idno type="PROQUEST">99897560</idno>
+            <idno type="VID">135530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2520:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations humbly offered to the Parliament being a short discourse shewing the great inconvenience of joyning the plantation charters with those of England in the general act of restoration, and the necessity of having for them a particular act. Wherein is contained, a full answer to a late pamphlet intituled, New-England vindicated, &amp;c. By a true lover of his country, and a hearty wisher of prosperity of the said plantations.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Prideaux,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At least in part a reply to: Mather, Increase.  New England vindicated.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mather, Increase, 1639-1723. --  New England vindicated --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>New England --  History --  Colonial Period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135530:1"/>
+            <pb n="1" facs="tcp:135530:1"/>
+            <head>Some <hi>CONSIDERATIONS</hi> humbly Offered to the PARLIAMENT: Being a Short DISCOURSE SHEWING The great Inconvenience of joyning the Plantation <hi>CHARTERS</hi> with thoſe of <hi>ENGLAND</hi> in the <hi>General Act</hi> of <hi>Reſtoration,</hi> and the Neceſſity of having for them a <hi>Particular ACT.</hi> Wherein is Contained, A full ANSWER to a late Pamphlet Intituled, <hi>NEW-ENGLAND Vindicated,</hi> &amp;c.</head>
+            <byline>By a true Lover of his Country, and a hearty Wiſher of the Proſperity of the ſaid <hi>PLANTATIONS.</hi>
+            </byline>
+            <p>THE Bill now depending in the Honourable Houſe of Commons, for reſtoring Charters to the ſtate they were in, in the year 1660, is, perhaps, as neceſſa<g ref="char:EOLhyphen"/>ry a Law, as any amongſt the many excellent ones the Parliament have paſſed this Seſſions; yet, if it ſhould include (as it appears by the Votes it is deſign'd to do) thoſe Charters of the Foreign Plantations (which were taken away on quite dif<g ref="char:EOLhyphen"/>ferent Reaſons from theſe in <hi>England,</hi> as will appear by and by, and highly agreeable to the ſenſe of former Parliaments) it might prove, in a few years, as prejudicial to <hi>England,</hi> by ruining the Trade, Navigation, and Staple Manufactures thereof, as the breach of all the others could do. And this will appear to any Rational Man, who will conſider</p>
+            <p>The great Powers granted to ſome of thoſe Foreign Plantations, but more particu<g ref="char:EOLhyphen"/>larly, that of the <hi>Maſſachuſets</hi> Colony in <hi>America,</hi> (who affect to call themſelves by the general Name of <hi>New England,</hi> though they are not above a tenth of thoſe Colonies which go under that denomination) the Inconveniencies of which, could not be ſo well foreſeen, until they began to grow ſomewhat numerous; and then it was ſo obvious, that the Parliament in King <hi>Charles</hi> I. time, preſented it as one of the greateſt grievan<g ref="char:EOLhyphen"/>ces of the Kingdom, and contrary to the Law and Privileges of the Subjects; the Par<g ref="char:EOLhyphen"/>liament doubting, they would in a ſhort time wholly ſhake off the Royal Juriſdiction: But the King having granted it, thought it a diminution to his Prerogative to have it queſtion'd. <note place="margin">
+                  <hi>Vide</hi> Sir <hi>Ferdi<g ref="char:EOLhyphen"/>nando Gorges</hi> Account of <hi>New-England, p.</hi> 43.</note> And ſo Diſſolving the Parliament, and the Wars breaking out, nothing was done in it until King <hi>Charles</hi> II. his Reſtoration, when immediately he and his Council, began to be very ſenſible of the great miſchief, thoſe Plantations in <hi>America,</hi>
+               <pb n="2" facs="tcp:135530:2"/>did to the Trade of <hi>England,</hi> and the Unlimited Authority ſome of them pretended to exerciſe, as well among themſelves, as over their weaker Neighbours: And vaſt num<g ref="char:EOLhyphen"/>bers of complaints came daily over, as well of their (<hi>viz.</hi> the <hi>Maſſachuſets</hi>) Incroach<g ref="char:EOLhyphen"/>ments on their ſaid Neighbours, with Petitions for Redreſs, from the Colonies ſo grie<g ref="char:EOLhyphen"/>ved; as alſo, of their Abominable, Illegal way of Trade. As to the Trade, the Par<g ref="char:EOLhyphen"/>liament took it into Conſideration, and made ſeveral Laws to Regulate it; as the Act of Navigation, in the 12th of the ſaid King; and others made in the 22d and 23d, and the 25th of the ſame King. But the Government of the <hi>Maſſachuſets</hi> Colony, being in the hands of thoſe who were the Principal Offenders, thoſe Acts had no effect there, though 'tis worth obſerving, that they in the year 1663, made a Law, That the ſaid Act of Navigation ſhould be obſerved there; which plainly demonſtrates, that they think the Laws of <hi>England</hi> of no force there, unleſs Confirmed by their General Court, (as indeed it appears by their firſt Law, in their Law-book, Printed in the year 1672, by Authority of their ſaid General Court, <hi>viz. That no Law ſhall be ſubmitted to, but what is made in their General Court:</hi>) But this was only a Colour, for it was never known either that any of their Governours, whatever they may pretend, who were Choſen by their Charter, did take the Oath preſcribed in that Act; or that any man was ever puniſhed by Vertue of it, though the Offences were as frequent as before. And when theſe, and all other the Law of Trade were broken, as they were daily, no Redreſs could be had, for the Perſons offending, were thoſe chiefly concerned in the Government. Theſe innumerable complaints, put the King to vaſt Expence, to maintain Perſons in ſeveral places of <hi>Europe,</hi> as <hi>France, Hamborough, Holland,</hi> &amp;c. to detect their Illegal Traders, after by long Experience, having found it impracticable in <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> by reaſon of the largneſs of the Country, and the many Navigable Rivers there. But after ſuch Detection, no Redreſs could be had, or indeed, expected, from Perſons who muſt be Party, Judge and Jury, and whoſe Determinations there are final, for they will allow of no Appeal to <hi>England,</hi> as all other the Plantations do, and ought to ſubmit to, which makes them as abſolutely Independant on the Crown of <hi>England,</hi> as are the Subjects of any other Prince. And this made them boldly employ two or three hundred Sail of Ships yearly, Trading to and fro from the ſeveral Plantations, and moſt Parts of <hi>Europe,</hi> ſupplying thoſe ſeveral places, with ſuch Commodities, as ought by Law, to be had from no place but <hi>England,</hi> or paying <hi>Engliſh</hi> Duties; and this without being under the Reſtrictions of ſuch Laws, as put our Merchants to vaſt Char<g ref="char:EOLhyphen"/>ges, either by Cuſtoms, or otherwiſe, which inabled them to under-ſell our <hi>Engliſh</hi> Merchants 50 <hi>per Cent.</hi> at leaſt, to the unſpeakable prejudice of the Kings Cuſtoms, and the decay of our Manufactures, as well as an Infallible Bait to all our Manufacturers to remove thither, where People Trade with ſuch advantage over their fellow Subjects.</p>
+            <p>But why do I call them Subjects, when indeed they Act as a Free and Independant <hi>Commonwealth,</hi> as they in their Law-book ſtile themſelves, (though I am not ignorant that a certain Perſon has lately, with as much confidence as falſity, affirmed that word <hi>Commonwealth</hi> to be Repealed.) And this was what the Parliament in K. <hi>Charles</hi> I. time did ſuſpect, and thereupon, all Perſons were Prohibited going thither, without firſt taking the Oaths of Allegiance and Supremacy; but this was never obſerved.</p>
+            <p>Now to ſhew the Unlimited Authority they pretend to, in ſome few of thoſe many Inſtances might be produced.</p>
+            <p n="1">
+               <note place="margin">
+                  <hi>Vide</hi> Law Book, <hi>p.</hi> 43, 45, 48, 55, 56, 58.</note> 1. They took upon them to Coyn Money, in the Name of the <hi>Commonwealth</hi> as they call it.</p>
+            <p n="2">2. To make ſeveral Laws ſufficiently repugnant to thoſe of <hi>England,</hi> eſpecially in matters of Religion, as well as making many offences Capital, which are not ſo in <hi>England</hi> (though this was abſolutely againſt the very words of their Charter) as may be ſeen, for the more eaſe, in an Abſtract of ſome of their Laws lately Printed, and pre<g ref="char:EOLhyphen"/>ſented to the Members of the Honourable Houſe of Commons:</p>
+            <p n="3">3. Their Arbitrary and Barbarous uſage of the Kings Commanders of his Ships: To Inſtance particularly, Sir <hi>John Weybourn,</hi> who they dragged about by the Hair of the Head, and beat moſt Inhumanly; for which, neither he nor the King could have any ſatisfaction. And they ſhew themſelves excellent obſervers of the Laws of Navi<g ref="char:EOLhyphen"/>gation, when they cannot diſtinguiſh the Kings Ships, and Legal Traders, from Pirates, which is the weak pretence made uſe of, by he who calls himſelf the <hi>New England</hi> Vindicator, to palliate this horrid uſage of the Kings Commanders, and excuſe their giving entertainment of a quite different nature to Pirates.</p>
+            <pb n="3" facs="tcp:135530:2"/>
+            <p n="4">4. They Arbitrarily, and with Force, intruded on their Neighbour Colonies, and on their Complaint to the King, they refuſed his Commiſſioners ſent to determine the difference occaſioned thereby, as may be ſeen in Mr. <hi>Ogilby</hi>'s Hiſtory of <hi>America, p.</hi> 164 <hi>&amp;</hi> 165. where he ſets forth, how in the years 1665 <hi>&amp;</hi> 1668, they in a Warlike man<g ref="char:EOLhyphen"/>ner, with Horſe and Foot, turned the Kings Juſtices out of their Seats at <hi>Boſton,</hi> who had been three years Impowered, and quietly Executed their Truſt, to keep matters in Peace, till the difference between the Colonies was Adjuſted: Sat down in their Places, Executed their own Commiſſion from the General Court, Impriſon'd the Kings Povoſt Marſhal; and committed ſeveral other Notorious Affronts to the King, by his Miniſters, as is more at large in the Book it ſelf. Theſe Commiſſioners of the Kings, who were ſent to Determine the Differences between the Colonies, were Authorized to do it by their ſound Diſcretion, which the aforeſaid Vindicator calls Illegal and Arbi<g ref="char:EOLhyphen"/>trary, and ſuch as could not be ſubmitted to: Whereas they could poſſibly be Deter<g ref="char:EOLhyphen"/>mined no otherwiſe than by their Diſcretion, on View and Examination, for they were matters of difference between diſtinct Colonies, relating to their ſeveral Bounds and Limits of their Juriſdiction, which could not be Determined by any other Law but that of Reaſon.</p>
+            <p>They have often ſaid ſince that Vote paſſed, That if their Charter was reſtored, the King of <hi>England</hi> had nothing to do there; and that if he did ſend any ſuch thing as a Governor thither, he ſhould not be obeyed: Nay, one of them, who is a great Pro<g ref="char:EOLhyphen"/>prietor in a Colony there, and were there occaſion, ſhould be named, did ſay to a Perſon that is not aſhamed or afraid to declare it, That <hi>what Power ſoever the King of</hi> England <hi>had formerly in—Himſelf now had; And that no Governor ſhould be Obeyed there.</hi>
+            </p>
+            <p>For theſe and ſeveral other notorious Abuſes (not to be prevented ſo long as the Su<g ref="char:EOLhyphen"/>pream Governing Power is in that People) it was that the King was forced to adviſe how to reduce them to Obedience, and no way was thought ſo proper as to vacate their Charter, for their acting ſo much beyond the Powers therein granted, though they were ſo large as to be thought Grievances by the Parliament as above, and not on the Meaſures theſe Charters of <hi>England</hi> were taken away; and therefore, as I hum<g ref="char:EOLhyphen"/>bly conceive, ought to be further conſidered, before they be reſtored to that Power which may ſoon give them opportunity of ſetting up for themſelves, as the Parliament formerly feared.</p>
+            <p>Theſe <hi>New-England</hi> Gentlemen on thoughts of being reſtored, immediately caſt off all Propoſals with the Subſcribers for working Copper Mines in their Country, in hopes of getting it into their Power once again to proſecute their old way of Trade; and now I have mentioned the Copper Mines, I doubt not but the Parliament will take into their Conſideration the great Advantage that Work may be to <hi>England,</hi> ſince it is none of the Product of <hi>England,</hi> and will not only be a ſufficient Imployment and Staple Commodity for that Country, the want of which forces them to ſeek thoſe illegal ways formerly mentioned; But if this be well incouraged, and the Subſcribers ſecured by having the Government of it here, and not ſubject to thoſe in <hi>New England,</hi> may prove of unſpeakable return to this Kingdom, (when as at preſent thoſe Colonies ſerve only to exhauſt us of our People run away with our Trade, and put us to great Expence to maintain them without bringing in any conſiderable profit) as is with higheſt Probabilities believed by the moſt underſtanding Men amongſt the Subſcribers. who notwithſtanding the falſe Suggeſtions of the <hi>New England</hi> Vindicator have really ſpent above 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Experiments, and ſoliciting a Charter; and who, were the Charter Sealed, would in a very little time make up that Sum already Subſcribed 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or more if there were occaſion, as was agreed amongſt them when they ſhut up their Books after about 60 Thouſand, which was only Subſcribed as an Earneſt to give them a Title to act as Members of that Society, with reſolution to make up the ſaid Sum a 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> when the Charter was paſſed: And ſo horridly falſe was the ſaid Vindicators Pretence, that ſeveral Perſons of Quality refuſed to come into the Subſcription, becauſe the Government of thoſe Colonies were altered, that on the contrary every one refuſed to come in ſo ſoon as they apprehended their Charter was like to be reſtored, and im<g ref="char:EOLhyphen"/>mediately on that Vote of the Honourable Houſe of Commons, there was a general Meeting of the Subſcribers, where the thoughts of their being ſtated in their former Powers, and their declaring that the King now had nothing to grant them, had like to have diſſolved the Society, who at this time only defer that Diſſolution, in hopes the
+<pb n="4" facs="tcp:135530:3" rendition="simple:additions"/>Parliament will take them into Conſideration, by providing for them in the Act, or leaving room for the King to grant ſuch Privileges as ſhall be thought requiſite for ſo great an Undertaking, reſolving otherwiſe to have nothing to do with men ſo wedded to their own intereſt, at ſuch a diſtance, and not to be controuled by any Power in <hi>England.</hi>
+            </p>
+            <p>A further Reaſon for not reſtoring their Charters without ſome Limitations and Powers reſerved in the Government, is the great Danger of all thoſe Plantations falling into the hands of the <hi>French;</hi> for ſhould their ſeveral Charters be reſtored by a General Act, they would as formerly be divided into 8 or 10 ſeveral Independent Go<g ref="char:EOLhyphen"/>vernments, ſo far from being able, or ſo much as willing to unite againſt a common Enemy, that they never was or ever can be at Peace amongſt themſelves, perpetually Quarrelling with one another about Bounds, Limits and Juriſdictions; nay, the Diffe<g ref="char:EOLhyphen"/>rences of Religion in the ſeveral Colonies raiſes them to ſuch an inveteracy againſt one another, that when one of the Colonies was fighting againſt the <hi>Indians</hi> and wanted Proviſion, and another Colony, being of a different Perſwaſion in Religion, out of pure Charity ſent them ſome, a Diſpute aroſe amongſt them whether they ſhould Eat thereof becauſe it came from an unſanctified People, but their Stomachs produced a Diſpenſa<g ref="char:EOLhyphen"/>tion, and they after long debate fell on: The Fable of the bundle of Arrows needs no Application here. But it is well enough known that it cannot be in the Power of the <hi>French</hi> to injure thoſe Plantations, if ſeveral of them were joyn'd under one entire Super<g ref="char:EOLhyphen"/>intendancy, according as may be moſt conveniently diſpoſed, and this will put them in a Capacity to reſiſt a common Enemy, and determine on the place all Differences ariſing between the ſeveral Juriſdictions, and on this account without any other, all rational men muſt and do think themſelves and their Effects much ſafer under the pre<g ref="char:EOLhyphen"/>ſent ſort of Government than formerly (not to excuſe the Governour if he has done any unjuſt Acts, for which he is anſwerable, and that is more than the Charter-Government will allow of, there being no Appeal from them.</p>
+            <p>Beſides, let the <hi>New England</hi> Vindicator pretend what he will, if theſe Charters be reſtored, in general terms it muſt neceſſarily ruin many Families, who have laid out all their Subſtance in improving ſuch Lands as they were neceſſitated to accept of, a Title for, from the preſent Government, and great Confuſions muſt ariſe in Diſputes about Titles and ſeveral other Matters, which will all be prevented or determined by ſuch a Superintendancy as is above-mentioned, not to prejudice any Man or Body-Corporate in their juſt Proprieties and reaſonable and convenient Privileges.</p>
+            <p>☞Laſt of all it muſt be remembred, that the reſtoring theſe Charters, without Limita<g ref="char:EOLhyphen"/>tion to the ſtate they were in, in the Year 1660, with all the Powers and Privileges they then enjoyed, does in effect repeal (as to what relates to them) the Act of Naviga<g ref="char:EOLhyphen"/>tion, and all other Acts made ſince the Year 1660, to reſtrain their Illegal Trade; the Dangerous Conſequence of which may be ſeen in the Preambles of thoſe Acts.</p>
+            <p>On the whole therefore, 'tis humbly Offered as the moſt Safe and Advantagious way for the Intereſt of <hi>England,</hi> that the Charters of the Plantation may be reſtored by an Act on purpoſe, and not by the General Act with theſe in <hi>England,</hi> they being quite of a different Nature, and that there be in their Act, (1.) Such Reſtrictions as ſhall in your great Wiſdoms ſeem neceſſary as to the Government, to keep it dependant on <hi>England,</hi> and ſubject to be called in queſtion on any Irregularities, by Appeal or otherwiſe to <hi>England.</hi> (2.) Some ſort of Indempnity or elſe Power to puniſh or forgive ſuch paſt Miſdemeanours as ſhall ſeem requiſite. (3.) With a Confirmation of ſuch Titles as ſhall appear to be reaſonable in your ſaid Wiſdom: To which might be added, a vaſt number of weighty things, fitter for the Conſideration of a Committee for that pur<g ref="char:EOLhyphen"/>poſe, than the Thoughts of any private perſon.</p>
+            <p>Thus the Plantations may, as at firſt deſigned, yearly produce a prodigious Income to their Mother <hi>England,</hi> not without a proportionable return of Nouriſhment from her, which they muſt not be ſuffered to get into a Capacity of refuſing.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Prideaux,</hi> 1689.</p>
+            <pb facs="tcp:135530:3" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
